@@ -55,4 +55,4 @@ To develop a website to display details about the places around my house.
 ![OUTPUT](out2.png)
 
 ## Result:
-Write your result
+Thus a website is developed to display details about the places around my house.
